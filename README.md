@@ -1,2 +1,2 @@
 # Elzero-template-2
-An application version of the Elzero channel
+An Website version of the Elzero channel
